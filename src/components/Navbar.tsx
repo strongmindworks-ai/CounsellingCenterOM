@@ -34,7 +34,7 @@ export function Navbar() {
           <img src={logo} alt="Om Life Counseling Centre" className="h-22 w-22 object-contain" />
           <div className="leading-tight">
             <div className="font-display font-semibold text-foreground text-sm md:text-base">OM LIFE</div>
-            <div className="text-[10px] md:text-xs text-muted-foreground tracking-wider">COUNSELING CENTRE</div>
+            <div className="text-[10px] md:text-xs text-muted-foreground tracking-wider">COUNSELLING CENTRE</div>
           </div>
         </a>
 

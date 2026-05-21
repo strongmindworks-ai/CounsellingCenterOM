@@ -11,7 +11,7 @@ export function Footer() {
               <img src={logo} alt="Om Life" className="h-22 w-22 object-contain" />
             </div>
             <div>
-              <div className="font-display font-semibold">OM LIFE COUNSELING CENTRE</div>
+              <div className="font-display font-semibold">OM LIFE COUNSELLING CENTRE</div>
               <div className="text-xs text-white/60 tracking-wider">Counselling · Life Coaching · Therapy</div>
             </div>
           </div>
