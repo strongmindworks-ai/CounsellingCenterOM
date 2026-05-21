@@ -50,7 +50,7 @@ export function Navbar() {
         </ul>
 
         <a
-          href="#contact"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSfivb9CGS4bq3RCTkwaeSnzJGSduV5VssimXkj6qsitiP1eCA/viewform?usp=header"
           className="hidden md:inline-flex items-center px-5 py-2.5 rounded-full bg-gradient-brand text-primary-foreground text-sm font-medium shadow-soft hover:shadow-glow transition-all hover:-translate-y-0.5"
         >
           Book Consultation
